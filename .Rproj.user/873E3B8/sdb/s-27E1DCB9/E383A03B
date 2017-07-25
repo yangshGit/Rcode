@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#安装包\ninstall.packages(\"ggplot2\")\n\n#ctrl+回车  执行选中代码\n\n#查看数据\nView(a)\nstr(a$V1)\nstr(a$V1)\nhead(a)\n\n#数学运算\nsum(cyp$样本,na.rm =TRUE)\nmedian(cyp$样本,na.rm =TRUE) #中值\nmean(cyp$样本,na.rm =TRUE) #均值\n\nplot(density(cyp$`突变率(血浆,59717xjycn1)`,na.rm=TRUE))\n\n#test2\n",
+    "created" : 1500963444563.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2018010100",
+    "id" : "E383A03B",
+    "lastKnownWriteTime" : 1500961903,
+    "last_content_update" : 1500961903,
+    "path" : "E:/Rcode/Rcode/Ynotebook.R",
+    "project_path" : "Ynotebook.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
